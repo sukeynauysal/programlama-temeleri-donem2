@@ -1,3 +1,3 @@
-hafta_ici=["pazartesi","salı","çarşanba","perşenbe","cuma"]
-print("cuma"in hafta_ici)
-print("cumrtesi"in hafta_ici)
+ders=["b","i","l","i","ş","i","m"]
+
+print(ders.index("l"))

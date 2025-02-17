@@ -1,5 +1,3 @@
-ornek=["y","a","n","i","t",]
-print(ornek)
-
-ornek[0]="k"
-print("yeni liste: ", ornek)
+ders=["b","i","l","i","ş","i","m"]
+sayi=ders.count("i")#listede kaçtane "i" elemanı oldunu sayi değişkenine atar
+print(sayi)
