@@ -1,7 +1,5 @@
-ders=["b","i","l","i","ş","i","m"]
-#listeyi alfabetik sırala 
-ders.sort()#verilen listeyi küçükden büyüğe sıralar
-print(ders)
-
-
-
+yas=int(input("yaşınızı girin"))
+if yas>=18:
+    print("ehliyet alabilirsiniz")
+else:
+    print("ehliyet alamazsınız")
